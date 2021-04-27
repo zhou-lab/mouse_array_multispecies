@@ -1,1 +1,1 @@
-# Mapping and annotation of MM285 array probes on the Ensembl v101 species.
+# Mapping and annotation of MM285 array probes on 310 species from Ensembl v101.
